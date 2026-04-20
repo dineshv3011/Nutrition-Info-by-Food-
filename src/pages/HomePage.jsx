@@ -40,3 +40,4 @@ export default function HomePage() {
     </div>
   );
 }
+console.log("Part 2 submission");
