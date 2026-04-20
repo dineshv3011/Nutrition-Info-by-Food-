@@ -4,3 +4,5 @@
 - Routing
 - Detail Page
 - Saved Items
+
+Part 2 implementation completed
